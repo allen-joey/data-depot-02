@@ -34,4 +34,4 @@ Apache License v2.0
 
 # Authors
 
-[Joey Allen]
+Joey Allen
