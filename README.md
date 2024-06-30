@@ -27,9 +27,19 @@ Thus apart from the main route table, our architecture consists of a second rout
 ```
 terraform plan -out plan.out
 ```
+
 ```
 terraform apply plan.out
 ```
+
+```
+Using the `.tfvars` file
+
+terraform apply -var-file="prod.tfvars"
+
+```
+
+
 ## License
 Apache License v2.0
 [See the Terms & Conditions of Apache License](https://www.apache.org/licenses/LICENSE-2.0)
