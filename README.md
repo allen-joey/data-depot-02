@@ -1,4 +1,4 @@
-## Repo: data-depot-02
+Repo: data-depot-02
 
 # AWS VPC
 
